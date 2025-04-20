@@ -7,7 +7,7 @@ I've recently developed a search suggestion system application that leverages:
 * **Spring Boot:** For backend.
 * **React js + Vite** For frontend.
 * **Google Cloud Platform (GCP):** For deployment and infrastructure.
-* **Git CI/CD Setup:**
+* **Git CI/CD**
 
 [Try out: Smart Search](https://m-divya-29.github.io/search-suggestion-system-ui/)
 
