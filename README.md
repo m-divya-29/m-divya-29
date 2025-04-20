@@ -1,7 +1,7 @@
 ## Hi there 👋
-### Check out my latest project!
+### Check out my latest project inspired by Leetcode [#1268](https://leetcode.com/problems/search-suggestions-system/)
 
-I've recently developed a search suggestion system application that leverages:
+🔍A search suggestion system application that leverages:
 
 * **Java Tries:** For efficient prefix-based searching.
 * **Spring Boot:** For backend.
