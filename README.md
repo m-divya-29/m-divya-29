@@ -3,12 +3,13 @@
 
 I've recently developed a search suggestion system application that leverages:
 
-* **Java Tires:** For efficient prefix-based searching.
-* **Spring Boot:** For building a robust and scalable backend.
+* **Java Tries:** For efficient prefix-based searching.
+* **Spring Boot:** For backend.
+* **React js + Vite** For frontend.
 * **Google Cloud Platform (GCP):** For deployment and infrastructure.
-* **CI/CD Setup:** Ensuring automated and continuous integration and delivery.
+* **Git CI/CD Setup:**
 
-[Smart Search](https://m-divya-29.github.io/search-suggestion-system-ui/)
+[Try out: Smart Search](https://m-divya-29.github.io/search-suggestion-system-ui/)
 
 <!--
 **m-divya-29/m-divya-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
