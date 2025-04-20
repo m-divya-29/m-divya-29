@@ -1,4 +1,14 @@
 ## Hi there 👋
+### Check out my latest project!
+
+I've recently developed a search suggestion system application that leverages:
+
+* **Java Tires:** For efficient prefix-based searching.
+* **Spring Boot:** For building a robust and scalable backend.
+* **Google Cloud Platform (GCP):** For deployment and infrastructure.
+* **CI/CD Setup:** Ensuring automated and continuous integration and delivery.
+
+[Smart Search](https://m-divya-29.github.io/search-suggestion-system-ui/)
 
 <!--
 **m-divya-29/m-divya-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
