@@ -2,7 +2,6 @@
 ### Check out my latest pomodoro project
 🍅 Pomodoro timer app built with React
 
-* Pixelated Minecraft-style theme
 * Track work intervals with start, pause, and reset features
 * Add and manage tasks with checkboxes
 * Tasks persist using local storage
