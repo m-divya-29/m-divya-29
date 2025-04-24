@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, some of my fun side projects👋
+### Check out my latest pomodoro project
+🍅 Pomodoro timer app built with React
+
+* Pixelated Minecraft-style theme
+* Track work intervals with start, pause, and reset features
+* Add and manage tasks with checkboxes
+* Tasks persist using local storage
+* Responsive design for mobile and desktop
+  
+[Try out: Pomodoro](https://m-divya-29.github.io/pomodoro/)
 ### Check out my latest project inspired by Leetcode [#1268](https://leetcode.com/problems/search-suggestions-system/)
 
 🔍A search suggestion system application that leverages:
