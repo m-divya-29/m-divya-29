@@ -27,7 +27,7 @@
 * **Google Cloud Platform (GCP):** For deployment and infrastructure.
 * **Git CI/CD**
 
-[Try it here ➡️: Smart Search](https://m-divya-29.github.io/search-suggestion-system-ui/)
+[Try it here ➡️: Smart Search](https://m-divya-29.github.io/search-suggestion-system-ui/) (⚠️Please be patient it takes a few seconds to load!)
 
 <!--
 **m-divya-29/m-divya-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
